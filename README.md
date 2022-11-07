@@ -3,7 +3,7 @@
 
 
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/7c/e9/e3/7ce9e34927261d3b035090cac779fec5.gif">
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/7c/e9/e3/7ce9e34927261d3b035090cac779fec5.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soliman2020&label=Profile%20views&color=0e75b6&style=flat" alt="soliman2020" /> </p>
 
