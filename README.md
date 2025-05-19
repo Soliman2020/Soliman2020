@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available @ [https://github.com/Soliman2020/](https://github.com/Soliman2020/)
 
-- 📝 I write articles on my website [https://soliman4data.wordpress.com](https://kairo4data.com)
+- 📝 I write articles on my website: [https://kairo4data.com](https://kairo4data.com)
 
 - 📫 Reach me: **msoliman@duck.com**
 
